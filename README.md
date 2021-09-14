@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CodingEssence
 - 👀 I am learining Python
 - 🌱 I know the basics of HTML, CSS, and Node,js
-- 📫 If you would like to contect me please email taheem.akter@gmail.com
+- 📫 If you would like to contect me please email taheem.akter@gmail.com (Currently not reading e-mails)
 
 <!---
 CodingEssence/CodingEssence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
